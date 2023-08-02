@@ -2,6 +2,7 @@
 import Feed from '@components/Feed';
 
 // CSS styling with "_" means that it's from our own CSS file; "-" between the words is from Tailwind
+// hey hey
 
 const Home = () => {
 return (
